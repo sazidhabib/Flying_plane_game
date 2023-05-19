@@ -15,11 +15,12 @@ So, C# like other general-purpose programming languages, C# can be used to creat
 Game Play images.
  
 
-![plan](https://github.com/sazidhabib/Flying_plane_game/assets/68610034/56769204-d2ec-40d8-9318-e82e72004350)
+![plan](https://github.com/sazidhabib/Flying_plane_game/assets/68610034/b13f1fb2-4d57-4dfb-8b19-5ea868c3724c)
 
-![plan2](https://github.com/sazidhabib/Flying_plane_game/assets/68610034/f03c3ae9-0cd9-4c69-9bf8-97551e02dded)
+![plan2](https://github.com/sazidhabib/Flying_plane_game/assets/68610034/c2246c20-5711-4fd9-9cee-8aca8c26a759)
 
-![plan3](https://github.com/sazidhabib/Flying_plane_game/assets/68610034/ac8028bf-469a-46b7-8b68-9fa35b55db8d)
+![plan3](https://github.com/sazidhabib/Flying_plane_game/assets/68610034/a6b7df27-9b8d-433a-b787-0e2fd16c542d)
+
 
 ## Game play video
 
