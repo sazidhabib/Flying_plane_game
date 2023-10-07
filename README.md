@@ -22,6 +22,6 @@ Game Play images.
 ![plan3](https://github.com/sazidhabib/Flying_plane_game/assets/68610034/a6b7df27-9b8d-433a-b787-0e2fd16c542d)
 
 
-## Game play video
+## Gameplay video
 
-https://github.com/sazidhabib/Flying_plane_game/assets/68610034/7c9a9c70-9cc5-4a14-9264-313f37405ca9
+https://github.com/sazidhabib/Flying_plane_game/assets/68610034/43476417-c5a5-4046-ae82-c2111ed367a0
